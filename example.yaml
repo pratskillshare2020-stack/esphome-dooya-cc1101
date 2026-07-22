@@ -1,0 +1,10 @@
+external_components:
+  - source: github://pratskillshare2020-stack/esphome-dooya-cc1101
+
+esphome:
+  name: dooya-test
+
+esp32:
+  board: esp32dev
+
+logger:
