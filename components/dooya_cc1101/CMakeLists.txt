@@ -1,0 +1,1 @@
+components/dooya_cc1101/CMakeLists.txt
